@@ -1,0 +1,6 @@
+@import '~@angular/material/theming';
+@mixin navtabs-componenmt-theme ($detrixhotel){
+    .navtabs-container{
+        background-color: mat-color($detrix-primary,300);
+    }
+}
